@@ -1,0 +1,17 @@
+matplotlib
+pycocotools
+scipy
+shapely
+six
+terminaltables
+tqdm
+numpy==1.26.4
+opencv-python==4.11.0.86
+mmengine==0.10.7
+transformers==4.33.3
+jsonlines
+nltk
+fairscale
+einops
+cython
+setuptools

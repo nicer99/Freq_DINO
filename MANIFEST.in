@@ -1,0 +1,9 @@
+include requirements/*.txt
+include LICENSE.md
+recursive-include LICENSES *.txt
+include mmdet/VERSION
+include mmdet/.mim/model-index.yml
+include mmdet/.mim/dataset-index.yml
+include mmdet/.mim/demo/*/*
+recursive-include mmdet/.mim/configs *.py *.yml
+recursive-include mmdet/.mim/tools *.sh *.py
